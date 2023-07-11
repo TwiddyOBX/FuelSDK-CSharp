@@ -4,6 +4,7 @@
         <TargetFramework>netstandard2.1</TargetFramework>
         <RootNamespace>FuelSDK_CSharpCore</RootNamespace>
         <Nullable>enable</Nullable>
+        <PackageId>Twiddy-FuelSDK-CSharpCore</PackageId>
     </PropertyGroup>
 
     <ItemGroup>
